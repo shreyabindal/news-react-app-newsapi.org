@@ -46,8 +46,8 @@ class NavBar extends Component {
                         </Button>
                     </NavDropdown.Item>
                     <NavDropdown.Item className="m-0 p-0">
-                        <Button onClick={()=>this.props.toLink("everything", "sources", "bloomberg")}  variant="light" block>
-                            Bloomberg
+                        <Button onClick={()=>this.props.toLink("everything", "sources", "the-times-of-india")}  variant="light" block>
+                            Times of India
                         </Button>
                     </NavDropdown.Item>
                     <NavDropdown.Item className="m-0 p-0">
